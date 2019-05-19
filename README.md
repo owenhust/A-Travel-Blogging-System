@@ -1,6 +1,7 @@
 # A-Travel-Blogging-System
 
 #Features including:
+
 A. The home page, or the main page, presents couple of items (Fig. 3):
 1.	RandoMOS logo;
 2.	Navbar items including Home, Login/Logout, Browse your posts, creating new posts, searching and Admin Page;
